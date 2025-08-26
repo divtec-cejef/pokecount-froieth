@@ -92,6 +92,10 @@ button:active {
     padding: 10px;
 }
 
+#reset-btn {
+    background: grey;
+}
+
 li {
     width: 105px;
     display: inline-block;
